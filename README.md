@@ -1,1 +1,1 @@
-Projeto Baby Yoda.
+Este projeto foi elaborado com o propósito de consolidar e expandir meus conhecimentos em HTML e CSS, explorando conceitos e práticas que fortalecem minha habilidade no desenvolvimento de interfaces web.
